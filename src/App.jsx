@@ -7,7 +7,7 @@ import HelmetCard from "./components/HelmetCard";
 import CartDrawer from "./components/CartDrawer";
 import BackToTop from "./components/BackToTop";
 import ImageCarousel from "./components/ImageCarousel";
-import About from "./components/about"; 
+import About from "./components/About"; 
 import Contact from "./components/Contact";
 import SkeletonCard from "./components/SkeletonCard";
 import Footer from "./components/Footer"; 
