@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Racer Pro Carbon",
+    "brand": "SpeedX",
+    "price": 4500000,
+    "color": "Matte Black / Red",
+    "rating": 4.8,
+    "tag": "Best Seller",
+    "imageUrl": "https://static.wixstatic.com/media/a71fcb_c98615739c7441aaa5af3e676ec227c1~mv2.png/v1/fill/w_1033,h_689,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/a71fcb_c98615739c7441aaa5af3e676ec227c1~mv2.png"
+  },
+  {
+    "id": 2,
+    "name": "Urban Street V2",
+    "brand": "CityRide",
+    "price": 2500000,
+    "color": "Gloss White",
+    "rating": 4.5,
+    "tag": "New",
+    "imageUrl": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": 3,
+    "name": "Adventure X-Trail",
+    "brand": "TrailMax",
+    "price": 1500000,
+    "color": "Gray / Orange",
+    "rating": 4.9,
+    "tag": "Top Rated",
+    "imageUrl": "https://images.unsplash.com/photo-1571819507488-0e1dfe7cc22d?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 4,
+    "name": "Phantom Stealth",
+    "brand": "SpeedX",
+    "price": 2750000,
+    "color": "Midnight Blue",
+    "rating": 4.7,
+    "tag": "Limited",
+    "imageUrl": "https://images.unsplash.com/photo-1701522814779-2d0e40de3370?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 5,
+    "name": "Neo Retro G1",
+    "brand": "CityRide",
+    "price": 1450000,
+    "color": "Cream / Brown",
+    "rating": 4.6,
+    "tag": "Retro",
+    "imageUrl": "https://images.unsplash.com/photo-1701522814811-532e0ce6ef74?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 6,
+    "name": "Dune Master",
+    "brand": "TrailMax",
+    "price": 3100000,
+    "color": "Sand Yellow",
+    "rating": 4.8,
+    "imageUrl": "https://images.unsplash.com/photo-1701522814993-de186050fd82?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 7,
+    "name": "Velocity RR",
+    "brand": "SpeedX",
+    "price": 3990000,
+    "color": "Carbon / Green",
+    "rating": 5.0,
+    "tag": "Premium",
+    "imageUrl": "https://images.unsplash.com/photo-1758506971824-2fe82e764816?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 8,
+    "name": "Commuter Air",
+    "brand": "CityRide",
+    "price": 1200000,
+    "color": "Matte Grey",
+    "rating": 4.3,
+    "imageUrl": "https://images.unsplash.com/photo-1767274859534-03d9f745030d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 9,
+    "name": "Apex Hunter",
+    "brand": "TrailMax",
+    "price": 2850000,
+    "color": "Electric Pink",
+    "rating": 4.7,
+    "tag": "Sale",
+    "imageUrl": "https://images.unsplash.com/photo-1768106047900-0a9e5470e2c5?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]

@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* 1. Base Styles: Reset dan Transisi Global */
+@layer base {
+  *,
+  ::after,
+  ::before {
+    /* Gunakan border-color juga agar garis pembagi ikut halus saat pindah mode */
+    @apply transition-colors duration-300 border-slate-200 dark:border-slate-800;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+/* 2. Utilities: Kelas pendukung seperti No-Scrollbar */
+@layer utilities {
+  /* Menghilangkan scrollbar untuk Chrome, Safari dan Opera */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Menghilangkan scrollbar untuk IE, Edge dan Firefox */
+  .no-scrollbar {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;     /* Firefox */
+    -webkit-overflow-scrolling: touch; /* Scroll lebih halus di iOS */
+  }
+}
